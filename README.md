@@ -21,7 +21,7 @@ This is the frontend repository for Grabtern, a web application built with Next.
  </p>
  </div>
  <br>
- 
+
  
 ## Table of Contents
 
